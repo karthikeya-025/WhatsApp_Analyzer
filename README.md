@@ -1,7 +1,6 @@
 ## WhatsApp chat analyzer
 ### Steps to use:
-Markup: 
-
+ 
         1. Open your whatsapp,click on any desired user,click on their profile and press export chat.
 
         2. After pressing on export chat, click on export with no media.
